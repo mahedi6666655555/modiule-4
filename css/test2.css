@@ -1,0 +1,57 @@
+
+    table{
+        border-collapse: collapse  ;
+    }
+td, th{
+border: 1px solid lightgray;
+padding: 5px 15px;
+}
+
+
+nav ul{
+
+    justify-content: center;
+    display: flex;
+    list-style: none;
+}
+
+nav li a{
+    padding-right: 20px;
+    text-decoration: none;
+    color: black
+}
+
+nav li a:hover{
+    color: rgb(255, 102, 0);
+
+    background-color: lightblue;
+}
+
+
+
+.blogs{
+        margin-left: 20px;
+        color: red;
+
+        
+
+
+}
+.blog-red{
+    color: rgb(0, 255, 68);
+}
+
+.blog{
+    border: 6px solid green;
+    margin-bottom: 20px;
+}
+
+.youtube
+{
+       padding-left: 400px;
+ padding-top: 50px;      
+ padding-bottom: 60px;
+}
+
+
+
